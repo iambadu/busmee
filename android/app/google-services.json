@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29944789846",
+    "firebase_url": "https://busmee-8a00c.firebaseio.com",
+    "project_id": "busmee-8a00c",
+    "storage_bucket": "busmee-8a00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29944789846:android:c10403c0b679c923a9b4f7",
+        "android_client_info": {
+          "package_name": "com.mvp.busmee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29944789846-v67nqec0vsdq9868fnv5hgvo4rqtla0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn_Pv5d5HEXaZpDalVbmmWnL72Jk1EQ9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29944789846-v67nqec0vsdq9868fnv5hgvo4rqtla0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
